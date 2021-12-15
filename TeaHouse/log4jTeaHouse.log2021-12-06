@@ -1,0 +1,8 @@
+2021-12-06 01:46:35 [main] INFO  edu.khai.oop.voroshylov.mainTeaHouse.main - Matcha 30.0 грн.
+2021-12-06 01:46:35 [main] INFO  edu.khai.oop.voroshylov.mainTeaHouse.main - Shu pu-erh in tangerine , Honey , Lemon 45.0 грн.
+2021-12-06 01:46:35 [main] INFO  edu.khai.oop.voroshylov.mainTeaHouse.main - Masala , Honey , Lemon , Anise , Anise 50.0 грн.
+2021-12-06 01:46:38 [AWT-EventQueue-0] INFO  edu.khai.oop.voroshylov.teaHouseGui.GuiApplication$ButtonEventListener - Shu pu-erh in tangerine 30.0 грн.
+2021-12-06 02:20:33 [main] INFO  edu.khai.oop.voroshylov.mainTeaHouse.main - Matcha 30.0 UAH.
+2021-12-06 02:20:33 [main] INFO  edu.khai.oop.voroshylov.mainTeaHouse.main - Shu pu-erh in tangerine , Honey , Lemon 45.0 UAH.
+2021-12-06 02:20:33 [main] INFO  edu.khai.oop.voroshylov.mainTeaHouse.main - Masala , Honey , Lemon , Anise , Anise 50.0 UAH.
+2021-12-06 02:20:35 [AWT-EventQueue-0] INFO  edu.khai.oop.voroshylov.teaHouseGui.GuiApplication$ButtonEventListener - Shu pu-erh in tangerine 30.0 UAH.
